@@ -29,4 +29,5 @@ I do websites, discord bots, backends, api's, checkers. Anything really lol
 
 ### Websites I Developed
 
-[![Hit Cloud](https://img.shields.io/website?label=hitly.cloud&style=for-the-badge&url=https://hitly.cloud/)](https://hitly.cloud)
+[![Hit Cloud](https://img.shields.io/website?label=hitly.cloud&style=for-the-badge&url=http://google.com)](https://hitly.cloud)
+[![Magic Galore](https://img.shields.io/website?label=magicgalore.xyz&style=for-the-badge&url=https://magicgalore.xyz/)](https://magicgalore.xyz)
