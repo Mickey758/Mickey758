@@ -3,7 +3,9 @@
 [![Learn About Me](https://img.shields.io/website?label=mickeysworld.xyz&style=for-the-badge&url=https://mickeysworld.xyz)](https://mickeysworld.xyz)
 [![My API](https://img.shields.io/website?label=agalts.xyz&style=for-the-badge&url=https://agalts.xyz)](https://agalts.xyz)
 
-
+### Wanna hire me?
+Dm me on discord: MickeyYe#0003
+I do websites, discord bots, backends, api's, checkers. Anything really lol
 
 ## Im a Student and a Developer
 
