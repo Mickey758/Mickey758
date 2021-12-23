@@ -6,7 +6,7 @@
 [![My API](https://img.shields.io/website?label=agalts.xyz&style=for-the-badge&url=https://agalts.xyz)](https://agalts.xyz)
 
 ### Wanna hire me?
-Dm me on discord: MickeyYe#0003
+Dm me on discord: MickeyYe#9423
 I do websites, discord bots, backends, api's, checkers. Anything really lol
 
 ## Im a Student and a Developer
@@ -14,8 +14,6 @@ I do websites, discord bots, backends, api's, checkers. Anything really lol
 - 🔭 I just created a free pentesting [application](https://github.com/Mickey758/Calani-AIO)
 - 🌱 I’m currently learning C#
 - 🥅 2022 Goals: Create a image sharing platform
-- ⚡ Fun fact: I love the colour purple and i like python
-
 
 ### Languages I Know:
 
