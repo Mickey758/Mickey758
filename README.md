@@ -6,7 +6,7 @@
 Dm me on discord: MickeyYe#9423
 I do websites, discord bots, backends, api's, checkers. Anything really lol
 
-## Im a Student and a Developer
+## Im a Developer
 
 - 🔭 I just created a free pentesting [application](https://github.com/Mickey758/Calani-AIO)
 - 🌱 I’m currently learning C#
@@ -23,10 +23,3 @@ I do websites, discord bots, backends, api's, checkers. Anything really lol
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mickey758&layout=compact)](https://github.com/Mickey758)
-
-
-### Websites I Developed
-
-[![Hit Cloud](https://img.shields.io/website?label=hitly.cloud&style=for-the-badge&url=http://google.com)](https://hitly.cloud)
-[![Magic Galore](https://img.shields.io/website?label=magicgalore.xyz&style=for-the-badge&url=https://magicgalore.xyz/)](https://magicgalore.xyz)
-[![Limitless Gen](https://img.shields.io/website?label=limitlessgen.xyz&style=for-the-badge&url=https://limitlessgen.xyz/)](https://limitlessgen.xyz)
