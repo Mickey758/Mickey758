@@ -23,3 +23,5 @@ I do websites, discord bots, backends, api's, checkers. Anything really lol
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mickey758&layout=compact)](https://github.com/Mickey758)
+
+![](https://komarev.com/ghpvc/?username=mickey758&label=Profile+Visits&style=for-the-badge&color=blueviolet)
