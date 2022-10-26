@@ -10,7 +10,7 @@
 
 ### Languages I Know:
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,js)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,js)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mickey758&layout=compact)](https://github.com/Mickey758)
 
