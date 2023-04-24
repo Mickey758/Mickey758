@@ -6,7 +6,6 @@
 
 - 🔭 I just created a free pentesting [application](https://github.com/Mickey758/Calani-AIO)
 - 🌱 I’m currently learning C#
-- 🥅 2022 Goals: Create a image sharing platform
 
 ### Languages I Know:
 
